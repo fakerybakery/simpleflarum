@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # SimpleFlarum
 
@@ -11,4 +11,4 @@
 ###### Step 3: Run!
 
 
-</p>
+</div>
